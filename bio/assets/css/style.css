@@ -1,0 +1,58 @@
+header {
+    background-color: white;
+    width: 100%;
+    border: solid; 
+    border-color: #cccccc;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+h1 {
+    background-color: #4aaaa5; 
+    color:white;
+    width:300px; 
+    height: 50px;
+    text-align: center;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+h2 {
+    color:#4aaaa5
+}
+nav {
+    color:#777777;
+    position: fixed;
+    top:8%;
+    left:55%;
+
+} 
+.bio, .biotext {
+    color:#1a0909;
+    border:solid;
+    border-color: #dddddd;
+    width: 960px;
+    height: 500;
+
+}
+.biotext {
+    color: black
+}
+footer {
+    background-color: #666666;
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    margin-top: 10px;
+
+}
+body {
+    background-image: url("../images/white-waves.png");
+
+}
+.form{
+    width: 960px;
+
+}
+.button{
+    background-color: #4aaaa5;
+    color:rgb(14, 1, 1);
+    width: 50px;
+    height: 20px;
+}
