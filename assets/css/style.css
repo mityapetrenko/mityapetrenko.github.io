@@ -36,7 +36,7 @@ body {
     background-image: url("../images/white-waves.png");
 }
 .wrapper{
-    margin: 0 0 0 15%;
+    margin:0 auto;
     width:960px;
     background-color:#ffffff;
     border:solid;
