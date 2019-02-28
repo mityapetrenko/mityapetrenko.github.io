@@ -1,0 +1,87 @@
+body{
+    background-image: url("../images/board-chalk-chalkboard-459793.jpg");
+}
+h1{
+    background-color: lightblue;
+    text-align: center;
+    width: 50%;
+    margin: 10px auto;
+    box-sizing: border-box;
+}
+#startScreen{
+    background-color: salmon;
+    border: solid 2px black;
+    width: 600px;
+    height:400px;
+    box-sizing: border-box;
+    margin:0 auto;
+    margin-top:20px;
+    
+
+}
+#gameScreen{
+    background-color: salmon;
+    border: solid 2px black;
+    width: 600px;
+    box-sizing: border-box;
+    overflow: auto;
+    margin:0 auto;
+    margin-top: 20px;
+
+    
+}
+#startBtn {
+    color:black;
+    background-color: red;
+    border:solid 2px;
+    width:100px;
+    height:50px;
+    margin:0 auto;
+    position: relative;
+    left:40%;
+    top:40%;
+}
+#doneBtn{
+    color:black;
+    background-color: red;
+    border:solid 2px;
+    width:100px;
+    height:50px;
+    margin:0 auto;
+    position: relative;
+    left:40%;
+}
+#questions{
+    background-color: lightgreen;
+    border: solid 2px black;
+    box-sizing: border-box;
+    overflow: auto;
+    margin:0 auto;
+    text-align: center;
+}
+#timer{
+    text-align: center;
+    box-sizing: border-box;
+    width: 400px;
+
+
+}
+#finalScreen{
+    background-color: salmon;
+    border: solid 2px black;
+    width: 600px;
+    height:400px;
+    box-sizing: border-box;
+    margin:0 auto;
+    text-align: center;
+    padding-top:20px;
+    margin-top: 20px;
+}
+#resetBtn{
+    color:black;
+    background-color: red;
+    border:solid 2px;
+    width:100px;
+    height:50px;
+
+}
